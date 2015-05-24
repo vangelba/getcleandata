@@ -1,6 +1,5 @@
----
-title: "README"
----
+README
+--
 
 
 The run_analysis.R script's purpose is to create a clean data set based on original data coming from:
