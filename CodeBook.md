@@ -1,5 +1,4 @@
----
-title: "CodeBook"
+CodeBook
 ---
 
 Subject  : int                           
@@ -7,6 +6,8 @@ Subject identifier for the person who performed the activity for each window sam
   
 Activity  : chr  
 Activity performed by the subject (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
+The following measures are normalized and bounded within [-1,1].
 
 tBodyAcc.mean...X                   : num
 tBodyAcc.mean...Y                   : num 
